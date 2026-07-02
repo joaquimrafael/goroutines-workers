@@ -1,0 +1,14 @@
+# Binários compilados
+/goroutines-workers
+*.exe
+*.out
+
+# Saída de test/coverage
+*.test
+coverage.out
+
+# Diretório de vendor (se usar)
+/vendor/
+
+# macOS
+.DS_Store
